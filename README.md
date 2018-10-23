@@ -3,11 +3,11 @@
 
 ## 導入
 `ogh`コマンドを使えるようにするために、PATHを通してください。  
-Mac(Linux)を使っている場合は、下記で`ogh`コマンドが使用可能になります。
+Mac(Linux)を使っている場合は、下記で`ogh`コマンドが使用可能になります。  
 /user/local/binでPATHが通らない場合は、頑張ってください。
 ```
 git clone https://github.com/slncu/open-gh.git
-cp path/to/cloned/dir/ /usr/local/bin
+cp path/to/cloned/dir/ogh /usr/local/bin
 ```
 
 ## 使い方
