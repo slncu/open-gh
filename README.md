@@ -11,5 +11,5 @@ cp path/to/cloned/dir/ /usr/local/bin
 ```
 
 ## 使い方
-`ogh gh-username gh-reponame`
+`ogh gh-username gh-reponame`  
 Open github repository from your terminal!
